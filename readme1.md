@@ -1,4 +1,18 @@
-,Olá esse é um projeto bricolage
+<h1 > 👩🏽Olá eu sou a Thalita e esse é um projeto bricolage de um site que estou desenvolvendo em equipe.
+  <br>
+💻Atualmente estou estudando na area de Desenvolvimento de sistemas, aprendendo e aprimorando meus conhecimentos .</h1>
+<div style="display: inline_block"><br>
+  <img align="center" alt="tasumoraes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="tasumoraes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="tasumoraes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  
+</div>
+<br>
+<br>
+
+<h2>Projeto Bricolage</h2>
+<br>
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,12 +149,9 @@ html {
   <div class="col-3 col-s-12">
     <div class="aside">
       <h2>What?</h2>
-      <p>Chania is a city on the island of Crete.</p>
-      <h2>Where?</h2>
-      <p>Crete is a Greek island in the Mediterranean Sea.</p>
-      <h2>How?</h2>
-      <p>You can reach Chania airport from all over Europe.</p>
-    </div>
+      <p>não definido.</p>
+      <h2>não definido?</h2>
+     
   </div>
 </div>
 
